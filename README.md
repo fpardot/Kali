@@ -1,8 +1,11 @@
-# Instalación de Kali linux en VMware
+# Kali Linux
 
+## Descarga:
+Para obtener la ISO de nuestro sistema operativo Kali Linux, nos dirigimos a la página oficial de Kali, la cual es: [title](https://www.kali.org/get-kali/#kali-installer-images)
 
-## Summary:
-[Add a concise and clear summary of the Vulnerability]
+Bajamos hasta la sección que dice Kali Linux 2022.4 Changelog (Como se muestra en la foto)
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/2.png)
 
 ## Steps To Reproduce:
 [Add clear details for how the triage team can reproduce the issue]
