@@ -131,5 +131,3 @@ Ya tenemos el sistema instalado y listo para ocupar, para esto ingresaremos el n
 Sistema listo para ocupar
 
 ![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/38.png)
-
-**¯\_(ツ)_/¯ Happy Hacking!!!**
