@@ -14,7 +14,7 @@ Y descargamos presionando en el icono de la flecha hacia abajo. (La ISO tiene un
 
 ## Creación de máquina virtual
 
-Para comenzar con la instalación, es necesario que tengamos instalado un virtualizador en nuestro equipo, en este caso ocuparemos VMware 16 Player, si no saben como instalar WMware, puede ver mi otra publicación [title](https://www.github.com/fpardot/WMware16).
+Para comenzar con la instalación, es necesario que tengamos instalado un virtualizador en nuestro equipo, en este caso ocuparemos VMware 16 Player, si no saben como instalar VMware, puede ver mi otra publicación [title](https://www.github.com/fpardot/WMware16).
 
 Ejecutamos WMware 16 Player
 
