@@ -7,6 +7,12 @@ Bajamos hasta la sección que dice Kali Linux 2022.4 Changelog (Como se muestra 
 
 ![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/2.png)
 
+Y descargamos presionando en el icono de la flecha hacia abajo. (La ISO tiene un peso aproximado de 4 GB, el tiempo de descarga dependera de tu conexion a internet), una vez descargada, verificamos que se encuentre el ISO.
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/4.png)
+
+
+
 ## Steps To Reproduce:
 [Add clear details for how the triage team can reproduce the issue]
 [Include code, exploits, tools, links, screenshots and any other evidence that helps the triage team]
