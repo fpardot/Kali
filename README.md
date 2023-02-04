@@ -16,7 +16,7 @@ Para comenzar con la instalación, es necesario que tengamos instalado un virtua
 
   1. Ejecutamos WMware 16 Player
    
-    ![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/4.png)
+    ![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/5.png)
 
   2. [Add step]
   3. [Add step]
