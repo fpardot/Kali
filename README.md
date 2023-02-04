@@ -84,4 +84,52 @@ En las siguientes pantallas seleccionaremos el particionado del disco, seleccion
 
 ![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/25.png)
 
-Nos pedira seleccionar el disco a particionar en este caso tenemos uno, pero si tuvieras mas de uno deberas seleccionar cuidadosamente en cual quieres realizar la instalación
+Nos pedira seleccionar el disco a particionar en este caso tenemos uno, pero si tuvieras mas de uno deberas seleccionar cuidadosamente en cual quieres realizar la instalación, para no perder los archivos que puedas tener almacenados.
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/26.png)
+
+En la siguiente sección nos muestra varias opciones de particionar, la primera realiza la partición automaticamente, el la segunda permite separar la particion /home, y la tercera opción es para crear una instalación mas personalizada, en este caso no necesitamos realizar particiones personalizadas, como si lo hariamos en una instalación para un servidor, por lo cual elegiremos la primera opción y damos clic en Continuar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/27.png)
+
+Seleccionamos la opción **Finalizar el particionado y escribir los cambios en el disco** y apretamos continuar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/28.png)
+
+Nos preguntara si deseamos escribir los cambios y pinchamos en si y damos clic en continuar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/29.png)
+
+El sistema comenzara a instalarse
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/30.png)
+
+Nos mostrara una pantalla con los programas que queremos instalar, seleccionamos las de la foto y damos clic en continuar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/31.png)
+
+El sistema continua con la instalación
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/32.png)
+
+El sistema nos preguntara si deseamos instalar el cargador de arranque GRUB, al cual debemos dar que **Si**, en el caso de colocar que **No** el sistema no iniciara
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/33.png)
+
+Seleccionaremos donde queremos instalar el cargador de arranque
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/34.png)
+
+Instalación completada, el Sistema operativo nos pide reiniciar el sistema y damos clic en continuar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/36.png)
+
+Ya tenemos el sistema instalado y listo para ocupar, para esto ingresaremos el nombre de usuario y contraseña que creamos en pasos anteriores y damos clic en iniciar sesión
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/37.png)
+
+Sistema listo para ocupar
+
+![alt text](https://github.com/fpardot/Kali/blob/161407f4d4992be149e482badefbb8530a0b9f01/img/38.png)
+
+**¯\_(ツ)_/¯ Happy Hacking!!!**
